@@ -1,2 +1,2 @@
 # hamlet
-just the guts of hamlet
+just the guts
