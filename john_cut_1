@@ -963,151 +963,161 @@ Nay, 'tis twice two months, my lord.
 OPHELIA
 The king rises.
 
-HAMLET
-What, frighted with false fire!
-
 ALL
 Lights, lights, lights!
+
+HAMLET
+What, frighted with false fire!
 
 Exeunt all but HAMLET and HORATIO
 
 HAMLET
-Why, let the stricken deer go weep,
-The hart ungalled play;
-For some must watch, while some must sleep:
-So runs the world away.
-Would not this, sir, and a forest of feathers-- if
-the rest of my fortunes turn Turk with me--with two
-Provincial roses on my razed shoes, get me a
-fellowship in a cry of players, sir?
-HORATIO
-Half a share.
-HAMLET
-A whole one, I.
-For thou dost know, O Damon dear,
-This realm dismantled was
-Of Jove himself; and now reigns here
-A very, very--pajock.
-HORATIO
-You might have rhymed.
-HAMLET
 O good Horatio, I'll take the ghost's word for a
 thousand pound. Didst perceive?
+
 HORATIO
 Very well, my lord.
+
 HAMLET
 Upon the talk of the poisoning?
+
 HORATIO
 I did very well note him.
-HAMLET
-Ah, ha! Come, some music! come, the recorders!
-For if the king like not the comedy,
-Why then, belike, he likes it not, perdy.
-Come, some music!
+
 Re-enter ROSENCRANTZ and GUILDENSTERN
 
 GUILDENSTERN
 Good my lord, vouchsafe me a word with you.
+
 HAMLET
 Sir, a whole history.
+
 GUILDENSTERN
 The king, sir,--
+
 HAMLET
 Ay, sir, what of him?
+
 GUILDENSTERN
 Is in his retirement marvellous distempered.
+
 HAMLET
 With drink, sir?
+
 GUILDENSTERN
 No, my lord, rather with choler.
+
 HAMLET
 Your wisdom should show itself more richer to
 signify this to his doctor; for, for me to put him
 to his purgation would perhaps plunge him into far
 more choler.
+
 GUILDENSTERN
 Good my lord, put your discourse into some frame and
 start not so wildly from my affair.
+
 HAMLET
 I am tame, sir: pronounce.
+
 GUILDENSTERN
 The queen, your mother, in most great affliction of
 spirit, hath sent me to you.
+
 HAMLET
 You are welcome.
+
 GUILDENSTERN
 Nay, good my lord, this courtesy is not of the right
 breed. If it shall please you to make me a
 wholesome answer, I will do your mother's
 commandment: if not, your pardon and my return
 shall be the end of my business.
+
 HAMLET
 Sir, I cannot.
+
 GUILDENSTERN
 What, my lord?
+
 HAMLET
 Make you a wholesome answer; my wit's diseased: but,
 sir, such answer as I can make, you shall command;
 or, rather, as you say, my mother: therefore no
 more, but to the matter: my mother, you say,--
+
 ROSENCRANTZ
 Then thus she says; your behavior hath struck her
 into amazement and admiration.
+
 HAMLET
 O wonderful son, that can so astonish a mother! But
 is there no sequel at the heels of this mother's
 admiration? Impart.
+
 ROSENCRANTZ
 She desires to speak with you in her closet, ere you
 go to bed.
+
 HAMLET
 We shall obey, were she ten times our mother. Have
 you any further trade with us?
+
 ROSENCRANTZ
 My lord, you once did love me.
+
 HAMLET
 So I do still, by these pickers and stealers.
+
 ROSENCRANTZ
 Good my lord, what is your cause of distemper? you
 do, surely, bar the door upon your own liberty, if
 you deny your griefs to your friend.
+
 HAMLET
 Sir, I lack advancement.
+
 ROSENCRANTZ
 How can that be, when you have the voice of the king
 himself for your succession in Denmark?
+
 HAMLET
 Ay, but sir, 'While the grass grows,'--the proverb
 is something musty.
-Re-enter Players with recorders
 
-O, the recorders! let me see one. To withdraw with
-you:--why do you go about to recover the wind of me,
-as if you would drive me into a toil?
 GUILDENSTERN
 O, my lord, if my duty be too bold, my love is too
 unmannerly.
+
 HAMLET
 I do not well understand that. Will you play upon
 this pipe?
+
 GUILDENSTERN
 My lord, I cannot.
+
 HAMLET
 I pray you.
+
 GUILDENSTERN
 Believe me, I cannot.
+
 HAMLET
 I do beseech you.
+
 GUILDENSTERN
 I know no touch of it, my lord.
+
 HAMLET
 'Tis as easy as lying: govern these ventages with
 your lingers and thumb, give it breath with your
 mouth, and it will discourse most eloquent music.
 Look you, these are the stops.
+
 GUILDENSTERN
 But these cannot I command to any utterance of
 harmony; I have not the skill.
+
 HAMLET
 Why, look you now, how unworthy a thing you make of
 me! You would play upon me; you would seem to know
@@ -1119,35 +1129,9 @@ you make it speak. 'Sblood, do you think I am
 easier to be played on than a pipe? Call me what
 instrument you will, though you can fret me, yet you
 cannot play upon me.
-Enter POLONIUS
-
-God bless you, sir!
-LORD POLONIUS
-My lord, the queen would speak with you, and
-presently.
-HAMLET
-Do you see yonder cloud that's almost in shape of a camel?
-LORD POLONIUS
-By the mass, and 'tis like a camel, indeed.
-HAMLET
-Methinks it is like a weasel.
-LORD POLONIUS
-It is backed like a weasel.
-HAMLET
-Or like a whale?
-LORD POLONIUS
-Very like a whale.
-HAMLET
-Then I will come to my mother by and by. They fool
-me to the top of my bent. I will come by and by.
-LORD POLONIUS
-I will say so.
-HAMLET
-By and by is easily said.
-Exit POLONIUS
-
 Leave me, friends.
-Exeunt all but HAMLET
+
+*Exeunt all but HAMLET*
 
 Tis now the very witching time of night,
 When churchyards yawn and hell itself breathes out
@@ -1161,9 +1145,10 @@ I will speak daggers to her, but use none;
 My tongue and soul in this be hypocrites;
 How in my words soever she be shent,
 To give them seals never, my soul, consent!
-Exit
 
-SCENE III. A room in the castle.
+*Exit*
+
+### SCENE III. A room in the castle.
 
 Enter KING CLAUDIUS, ROSENCRANTZ, and GUILDENSTERN
 KING CLAUDIUS
